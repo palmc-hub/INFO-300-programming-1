@@ -42,3 +42,4 @@ let avgGap = (totalGap / (primes.length - 1)).toFixed(2);
 
 console.log("The largest gap is " + maxGap + ", between " + gapStart + " and " + gapEnd);
 console.log("The average gap is " + avgGap);
+
